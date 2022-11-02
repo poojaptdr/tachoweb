@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Dancing+Script:wght@500&family=Edu+NSW+ACT+Foundation:wght@600&family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 85vh;
+}
+
+.image{
+    height: 70vh;
+}
+
+.card-body img{
+    width: 110px;
+    height: 110px;
+}
